@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import "./style.scss";
+import "./Style.scss";
 
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
 import { PlayIcon } from "../PlayIcon"
